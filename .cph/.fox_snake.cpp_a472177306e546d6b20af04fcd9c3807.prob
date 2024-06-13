@@ -1,0 +1,1 @@
+{"name":"Local: fox_snake","url":"d:\\VS code\\Codeforces\\fox_snake.cpp","tests":[{"id":1688994998539,"input":"9 9","output":"#########\n........#\n#########\n#........\n#########\n........#\n#########\n#........\n#########"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VS code\\Codeforces\\fox_snake.cpp","group":"local","local":true}

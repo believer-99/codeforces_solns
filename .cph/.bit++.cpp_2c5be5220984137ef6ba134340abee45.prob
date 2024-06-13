@@ -1,0 +1,1 @@
+{"name":"Local: bit++","url":"d:\\VS code\\Codeforces\\bit++.cpp","tests":[{"id":1688971859886,"input":"2\nX++\n--X","output":"0"},{"id":1688972863334,"input":"1\n++X","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VS code\\Codeforces\\bit++.cpp","group":"local","local":true}
